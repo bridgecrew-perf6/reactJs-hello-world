@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/*/static/css/main.5724504c.chunk.css",
-    "main.js": "/*/static/js/main.375b8f48.chunk.js",
-    "main.js.map": "/*/static/js/main.375b8f48.chunk.js.map",
-    "runtime-main.js": "/*/static/js/runtime-main.6bd5d2d6.js",
-    "runtime-main.js.map": "/*/static/js/runtime-main.6bd5d2d6.js.map",
-    "static/js/2.c139efa9.chunk.js": "/*/static/js/2.c139efa9.chunk.js",
-    "static/js/2.c139efa9.chunk.js.map": "/*/static/js/2.c139efa9.chunk.js.map",
-    "static/js/3.16810eaf.chunk.js": "/*/static/js/3.16810eaf.chunk.js",
-    "static/js/3.16810eaf.chunk.js.map": "/*/static/js/3.16810eaf.chunk.js.map",
-    "index.html": "/*/index.html",
-    "static/css/main.5724504c.chunk.css.map": "/*/static/css/main.5724504c.chunk.css.map",
-    "static/js/2.c139efa9.chunk.js.LICENSE.txt": "/*/static/js/2.c139efa9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/*/static/media/logo.6ce24c58.svg"
+    "main.css": "/ReactJs_Hello_World/static/css/main.5724504c.chunk.css",
+    "main.js": "/ReactJs_Hello_World/static/js/main.375b8f48.chunk.js",
+    "main.js.map": "/ReactJs_Hello_World/static/js/main.375b8f48.chunk.js.map",
+    "runtime-main.js": "/ReactJs_Hello_World/static/js/runtime-main.3ef7fa99.js",
+    "runtime-main.js.map": "/ReactJs_Hello_World/static/js/runtime-main.3ef7fa99.js.map",
+    "static/js/2.c139efa9.chunk.js": "/ReactJs_Hello_World/static/js/2.c139efa9.chunk.js",
+    "static/js/2.c139efa9.chunk.js.map": "/ReactJs_Hello_World/static/js/2.c139efa9.chunk.js.map",
+    "static/js/3.16810eaf.chunk.js": "/ReactJs_Hello_World/static/js/3.16810eaf.chunk.js",
+    "static/js/3.16810eaf.chunk.js.map": "/ReactJs_Hello_World/static/js/3.16810eaf.chunk.js.map",
+    "index.html": "/ReactJs_Hello_World/index.html",
+    "static/css/main.5724504c.chunk.css.map": "/ReactJs_Hello_World/static/css/main.5724504c.chunk.css.map",
+    "static/js/2.c139efa9.chunk.js.LICENSE.txt": "/ReactJs_Hello_World/static/js/2.c139efa9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactJs_Hello_World/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6bd5d2d6.js",
+    "static/js/runtime-main.3ef7fa99.js",
     "static/js/2.c139efa9.chunk.js",
     "static/css/main.5724504c.chunk.css",
     "static/js/main.375b8f48.chunk.js"
